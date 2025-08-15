@@ -1,1 +1,1 @@
-https://github.com/Nick-Shvd/ono-tebe-nado-fd
+https://github.com/Nick-Shvd/posmotri-v-okno-fd
